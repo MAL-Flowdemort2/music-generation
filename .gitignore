@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#midi files
+/data 
+
 # C extensions
 *.so
 
